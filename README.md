@@ -6,12 +6,17 @@ The implementation of Logiformer
 
 ## How to Run
 
+```
+sh run_logiformer.sh
+```
 
 ## Experiment Results
 
+
+
 ## Acknowledgement
 
-The implementation of Logiformer is inspired by 
+The implementation of Logiformer is inspired by [DAGN](https://arxiv.org/abs/2103.14349) and [LReasoner](https://arxiv.org/abs/2105.03659) and supported by [Huggingface Toolkit](https://huggingface.co/docs/transformers/index).
 
 ## Citation
 

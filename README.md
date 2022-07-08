@@ -2,9 +2,12 @@
 
 The implementation of Logiformer
 
-Logiformer: A Two-branch Graph Transformer Network for Interpretable Logical Reasoning (*SIGIR 2022*) [[paper]](https://arxiv.org/abs/2205.00731)
+**Logiformer: A Two-branch Graph Transformer Network for Interpretable Logical Reasoning** (*SIGIR 2022*) [[paper]](https://arxiv.org/abs/2205.00731)
+
+## How to Run
 
 
+## Experiment Results
 
 ## Acknowledgement
 

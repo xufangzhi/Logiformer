@@ -19,7 +19,7 @@ It achieves the **state-of-the-art (SOTA)** results compared with all the RoBERT
 The implementation of Logiformer is inspired by [DAGN](https://arxiv.org/abs/2103.14349) and [LReasoner](https://arxiv.org/abs/2105.03659) and supported by [Huggingface Toolkit](https://huggingface.co/docs/transformers/index).
 
 ## Citation
-
+If you find it helpful, please kindly cite the paper.
 ```
 @article{xu2022logiformer,
   title   = {Logiformer: A Two-Branch Graph Transformer Network for Interpretable Logical Reasoning},

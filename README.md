@@ -21,10 +21,11 @@ The implementation of Logiformer is inspired by [DAGN](https://arxiv.org/abs/210
 ## Citation
 If you find it helpful, please kindly cite the paper.
 ```
-@article{xu2022logiformer,
-  title   = {Logiformer: A Two-Branch Graph Transformer Network for Interpretable Logical Reasoning},
-  author  = {Xu, Fangzhi and Liu, Jun and Lin, Qika and Pan, Yudai and Zhang, Lingling},
-  journal = {arXiv preprint arXiv:2205.00731},
-  year    = {2022}
+@inproceedings{10.1145/3477495.3532016,
+author    = {Xu, Fangzhi and Liu, Jun and Lin, Qika and Pan, Yudai and Zhang, Lingling},
+title     = {Logiformer: A Two-Branch Graph Transformer Network for Interpretable Logical Reasoning},
+year      = {2022},
+booktitle = {Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval},
+pages     = {1055–1065},
 }
 ```

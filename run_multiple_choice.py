@@ -181,8 +181,7 @@ def main():
             max_rel_id = 0
     else: raise Exception
     model = Logiformer.from_pretrained(
-        # model_args.model_name_or_path,
-        "checkpoints/logiqa/logiformer/",
+        model_args.model_name_or_path,
         from_tf=bool(".ckpt" in model_args.model_name_or_path),
         config=config,
         # token_encoder_type="roberta" if "roberta" in model_args.model_name_or_path else "bert",

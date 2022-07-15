@@ -6,6 +6,10 @@ This is a model to tackle the logical reasoning task in the field of multiple-ch
 
 ## How to Run
 
+The versions of several key packages are listed in the 'requirements.txt' for reference. 
+
+To run the model, please use the following command.
+
 ```
 sh run_logiformer.sh
 ```

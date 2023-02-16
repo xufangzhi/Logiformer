@@ -1,6 +1,6 @@
 # Logiformer
 
-This is a model to tackle the logical reasoning task in the field of multiple-choice machine reading comprehension.
+This is a model to tackle the logical reasoning task in the field of multiple-choice machine reading comprehension. The code of the decoder part is not the final version, but it is one of the alternatives. You can also implement it based on own design, which may further improve the experimental results.
 
 **Logiformer: A Two-branch Graph Transformer Network for Interpretable Logical Reasoning** (*SIGIR 2022*) [[paper]](https://arxiv.org/abs/2205.00731)
 
